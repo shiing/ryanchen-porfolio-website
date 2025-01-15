@@ -12,7 +12,7 @@ url: https://shiing.github.io
 name: Shih-Ying Chen (Ryan Chen)
 title: Tech Lead
 email: shiing989@gmail.com
-website: www.github.com/shiing/ryan-chen-resume
+website: https://shiing.github.io/ryanchen-portfolio-website/
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -25,7 +25,7 @@ linkedin_username: ryan989
 additional_links:
 - title: Ryan Website
   icon: fas fa-globe
-  url: www.github.com/shiing/ryan-chen-resume
+  url: https://shiing.github.io/ryanchen-portfolio-website/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
