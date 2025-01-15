@@ -147,9 +147,9 @@ content:
             - iOS App - https://apps.apple.com/us/app/uts-live/id1279215040
             - Android App - https://play.google.com/store/apps/details?id=com.fantasy.uts
 
-            ![UTS](/images/uts_homepage_small_2.jpg "UTS Homepage")
-            ![UTS](/images/uts_course.jpg "UTS Course")
-            ![UTS](/images/uts_purchase_course.jpg "UTS Purchase Course")
+            ![UTS](/ryanchen-portfolio-website/images/uts_homepage_small_2.jpg "UTS Homepage")
+            ![UTS](/ryanchen-portfolio-website/images/uts_course.jpg "UTS Course")
+            ![UTS](/ryanchen-portfolio-website/images/uts_purchase_course.jpg "UTS Purchase Course")
  
       - layout: left
         title: Soq*Live
@@ -164,7 +164,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             For users to search the in-app content, try run the app on the browser. This service now focus on business side. The original website for end-users has closed.
 
-            ![Fiiser](/images/fiiser_web_desktop.jpg "Fiiser Homepage")
+            ![Fiiser](/ryanchen-portfolio-website/images/fiiser_web_desktop.jpg "Fiiser Homepage")
 
 
       - layout: left
@@ -175,7 +175,7 @@ content:
             Students who like to study abroad, can get lots of information here.
             - Website - https://www.wef.com.tw/
 
-            ![WWGO](/images/wwgo.jpg "WWGO Homepage")
+            ![WWGO](/ryanchen-portfolio-website/images/wwgo.jpg "WWGO Homepage")
 
       - layout: left
         title: SkyTapping
@@ -184,7 +184,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             SkyTapping is an iOS game, it's easy to play, but still quite chanllenging. Developed with cocos2d framework, support iPhone, iPad, also suuport multiplayers game, up to two people. Charles and I developed it. I was responsiable for the programming part, Charles was the designer. Hope you enjoy it.
 
-            ![SkyTapping](/images/skytapping.jpg "SkyTapping Homepage")
+            ![SkyTapping](/ryanchen-portfolio-website/images/skytapping.jpg "SkyTapping Homepage")
 
       - layout: left
         title: SkyTapping Lite
@@ -200,7 +200,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Yahoo! is an iOS application, users can use it to read Yahoo! news, Yahoo! mail, and other Yahoo! properties. Our team is focused on news, try to provide better experience for users. Improve it's stability and performance.
 
-            ![Yahoo](/images/yahoo.jpg "Yahoo! Homepage")
+            ![Yahoo](/ryanchen-portfolio-website/images/yahoo.jpg "Yahoo! Homepage")
 
       - layout: left
         title: MobileCaddy
@@ -209,7 +209,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             MobileCaddy is an iOS application. It's a useful tool for golfers. It'll show the map of course in Taiwan, record score, show statistics result to users, and send the scorecard via mail. For server side, we use google app engine to build the webserver.
 
-            ![MobileCaddy](/images/mobilecaddy.jpg "MobileCaddy Homepage")
+            ![MobileCaddy](/ryanchen-portfolio-website/images/mobilecaddy.jpg "MobileCaddy Homepage")
 
       - layout: left
         title: Placebook
