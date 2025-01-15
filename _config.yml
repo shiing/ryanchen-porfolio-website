@@ -217,18 +217,16 @@ content:
         description: | # this will include new lines to allow paragraphs
             Collect the data from social websites, display the photos of hot spot to the map.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: National Taiwan University
-        caption: 2006-2010
-        sub_title: Master's degree, Computer Science
 
-      - layout: left
-        title: National Chiao Tung University
-        caption: 2002-2006
-        sub_title: Bachelor's degree, Computer Science
+  - title: Education # Title for the section
+    layout: text
+    content: |
+        National Taiwan University 2006-2010
+        - Master's degree, Computer Science
+
+        National Chiao Tung University 2002-2006
+        - Bachelor's degree, Computer Science
+
 
 # Footer
 footer_show_references: true
