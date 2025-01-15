@@ -1,9 +1,12 @@
 # Site
-repository: shiing/ryan-chen-resume
+repository: shiing/shihyingchen.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
+
+domain: shihyingchen.github.io
+url: https://shiing.github.io
 
 # Personal info
 name: Shih-Ying Chen (Ryan Chen)
