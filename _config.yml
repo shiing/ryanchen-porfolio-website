@@ -1,0 +1,242 @@
+# Site
+repository: shiing/ryan-chen-resume
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Shih-Ying Chen (Ryan Chen)
+title: Tech Lead
+email: shiing989@gmail.com
+website: www.github.com/shiing/ryan-chen-resume
+
+# Dark Mode (true/false/never)
+darkmode: never
+
+# Social links
+github_username:  shiing
+linkedin_username: ryan989
+
+# Additional icon links
+additional_links:
+- title: Ryan Website
+  icon: fas fa-globe
+  url: www.github.com/shiing/ryan-chen-resume
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Experienced in multiple Live streaming and e-commerce products. Proactive and focus on problem solving. Collaborate with team members to deliver high quality products.
+
+  - 10 years experience in software development.
+  - 5 years experience in project, product, and engineer management.
+  - 2 years experience in iOS and Android development with React-Native.
+  - 8 years experience in front-end development with ReactJS, Javascript, HTML, CSS, SASS.
+  - 6 years experience in fullstack development with Django.
+  - 6 years experience in CI Automation.
+  - 3 years experience in iOS development with Objective-C, Cocos2d.
+  - 2 years experience in Scrum Master.
+  - 1 year experience in Android development.
+
+content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-left
+        title: Engineering Manager
+        sub_title: The Campaign Registry
+        
+        caption: Nov 2022 - Present
+        description: |  # this will include new lines to allow paragraphs
+          - Lead the platform team to deliver innovative solutions that drive business success
+          - Support and team members to build up high quality services
+          - Partner with product managers, designers, and other stakeholders to facilitate effective communication and seamless integration between teams
+          - Provide technical guidance, evaluate trade-offs, and make informed decisions that contribute to successful project outcomes  
+
+      - layout: top-left
+        title: NTUC Enterprise Co-operative Limited
+        sub_title: Senior Principal Engineer
+        caption: Nov 2021 - Nov 2022
+        description: |  # this will include new lines to allow paragraphs
+          - Lead 13 frontend engineers to create a school management system. Including web portal for school admin, iOS/Android app for staffs, iOS iPad kiosk app for school, iOS/Android app for parents.
+          - Lead mobile app development to create iOS and Android apps using React-Native
+          - Lead frontend development to create web portal using ReactJS
+          - Create common component to share the UI components between all the apps
+          - Follow design guideline to enhance user experience
+          - Build iOS/Android pipeline with bitrise.io
+          - Build web pipeline with bitbucket pipeline
+          - Provide guideline to support different devices size
+          - Improve web performance to provide better user experience
+          - Use Jira, bitbucket to communicate with the whole team
+
+      - layout: top-left
+        title: NTUC Enterprise Co-operative Limited
+        sub_title: Technical Lead
+        caption: Mar 2019 - Dec 2021
+
+      - layout: top-left
+        title: KooData Inc.
+        sub_title: Engineer Manager
+        caption: Oct 2018 - Mar 2019
+        description: |
+          - Lead frontend/iOS/Android team.
+          - Develop online ads analysis website, google ads and facebook ads are included.
+
+      - layout: top-left
+        title: Fiiser Inc.
+        sub_title: Software Architect
+        caption: Jul 2014 - Oct 2018
+        description: |
+          - Conduct social live streaming product, include iOS/Android/CMS/RestAPI, be a tech lead and product owner in the team.
+          - Develop two CMS(Content Management System) for social live streaming. Implement with ReactJS, Redux, Material-UI, webpack, Babel, etc., support universal (isomorphic) rendering.
+          - Develop live streaming Android app, support RTMP/HLS streaming upload and download, instant message, Google IAB, notification, social login (Google, Facebook, Wechat).
+          - Develop dashboard system. Implement with Django, bootstrap, Google Chart.
+          - Develop mobile app search website, front-end and back-end, support desktop and mobile. Implement with Django, python, nginx, uwsgi, javascript, html5, sass, bootstrap. 
+
+      - layout: top-left
+        title: Yahoo!
+        sub_title: Software Engineer
+        caption: Jun 2011 - Dec 2013
+        description: |
+          - Develop universal header module for all worldwild yahoo sites, including desktop, mobile, and tablet.
+          - Developed LEGO UGC module as front-end engineer. ex, comments, ratings, polls modules. Cowork with other team in Sunnyvale and Bangalore.
+          - Develop frontpage iOS mobile app, improve the loading time to 3x faster.
+          - Develop user generated modules for many sites globally.
+          - Submit 6 patents internally. Accept Rate is 66%.
+
+      - layout: top-left
+        title: Wildmind
+        sub_title: Software Engineer
+        caption: May 2010 - Jun 2011
+        description: |
+          - Conduct product ‘Mobile Caddy’, including system design, implementation, and marketing.Implemented client side code with Objective-C and server with Google App Engine.
+          - Design the score system and badge system for product ‘Fanwave.TV’, and implemented it using Java,.
+
+
+
+
+
+
+
+
+
+
+  - title: Project # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left-top
+        title: UTS - Online Streaming Music Learning App
+        sub_title: iOS/Android App
+        # link_text: boringcompany.com
+        description: | # this will include new lines to allow paragraphs
+            Lead the whole product to provide live streaming course content. Students can learn music skills online, talk to the teacher in real-time, and need to work on the homework after the courses.
+            - iOS App - https://apps.apple.com/us/app/uts-live/id1279215040
+            - Android App - https://play.google.com/store/apps/details?id=com.fantasy.uts
+
+            ![UTS](/images/uts_homepage_small_2.jpg "UTS Homepage")
+            ![UTS](/images/uts_course.jpg "UTS Course")
+            ![UTS](/images/uts_purchase_course.jpg "UTS Purchase Course")
+ 
+      - layout: left
+        title: Soq*Live
+        sub_title: iOS/Android App
+        # link_text: boringcompany.com
+        description: | # this will include new lines to allow paragraphs
+            For users to start live streaming and social activity on the mobile phone.
+
+      - layout: left
+        title: Fiiser
+        sub_title: Website
+        description: | # this will include new lines to allow paragraphs
+            For users to search the in-app content, try run the app on the browser. This service now focus on business side. The original website for end-users has closed.
+
+            ![Fiiser](/images/fiiser_web_desktop.jpg "Fiiser Homepage")
+
+
+      - layout: left
+        title: Worldwide Study Abroad Website
+        sub_title: website
+        # link_text: boringcompany.com
+        description: | # this will include new lines to allow paragraphs
+            Students who like to study abroad, can get lots of information here.
+            - Website - https://www.wef.com.tw/
+
+            ![WWGO](/images/wwgo.jpg "WWGO Homepage")
+
+      - layout: left
+        title: SkyTapping
+        sub_title: iOS App
+        # link_text: boringcompany.com
+        description: | # this will include new lines to allow paragraphs
+            SkyTapping is an iOS game, it's easy to play, but still quite chanllenging. Developed with cocos2d framework, support iPhone, iPad, also suuport multiplayers game, up to two people. Charles and I developed it. I was responsiable for the programming part, Charles was the designer. Hope you enjoy it.
+
+            ![SkyTapping](/images/skytapping.jpg "SkyTapping Homepage")
+
+      - layout: left
+        title: SkyTapping Lite
+        sub_title: iOS App
+        # link_text: boringcompany.com
+        description: | # this will include new lines to allow paragraphs
+            SkyTapping Lite version, with ads in it.
+
+      - layout: left
+        title: Yahoo!
+        sub_title: iOS App
+        # link_text: boringcompany.com
+        description: | # this will include new lines to allow paragraphs
+            Yahoo! is an iOS application, users can use it to read Yahoo! news, Yahoo! mail, and other Yahoo! properties. Our team is focused on news, try to provide better experience for users. Improve it's stability and performance.
+
+            ![Yahoo](/images/yahoo.jpg "Yahoo! Homepage")
+
+      - layout: left
+        title: MobileCaddy
+        sub_title: iOS App
+        # link_text: boringcompany.com
+        description: | # this will include new lines to allow paragraphs
+            MobileCaddy is an iOS application. It's a useful tool for golfers. It'll show the map of course in Taiwan, record score, show statistics result to users, and send the scorecard via mail. For server side, we use google app engine to build the webserver.
+
+            ![MobileCaddy](/images/mobilecaddy.jpg "MobileCaddy Homepage")
+
+      - layout: left
+        title: Placebook
+        sub_title: Website
+        description: | # this will include new lines to allow paragraphs
+            Collect the data from social websites, display the photos of hot spot to the map.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: National Taiwan University
+        caption: 2006-2010
+        sub_title: Master's degree, Computer Science
+
+      - layout: left
+        title: National Chiao Tung University
+        caption: 2002-2006
+        sub_title: Bachelor's degree, Computer Science
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
