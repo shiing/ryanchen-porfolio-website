@@ -140,7 +140,7 @@ content:
     content:
       - layout: left
         title: NTUC First Campus Mobile App
-        sub_title: iOS/Android App
+        sub_title: iOS/Android App/Website
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
             Provide full solution for education system. Including mobile parent app / mobile teacher app / school admin web portal
