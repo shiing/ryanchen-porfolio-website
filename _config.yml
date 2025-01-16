@@ -139,6 +139,17 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: NTUC First Campus Mobile App
+        sub_title: iOS/Android App
+        # link_text: boringcompany.com
+        description: | # this will include new lines to allow paragraphs
+            Provide full solution for education system. Including mobile parent app / mobile teacher app / school admin web portal
+
+            ![MFS Parent App](/ryanchen-portfolio-website/images/mfs_parent_app.jpg "MFS Parent App")
+            ![MFS Guardian App](/ryanchen-portfolio-website/images/mfs_guardian_app.jpg "MFS Guardian App")
+            ![LSH Parent App](/ryanchen-portfolio-website/images/lsh_parent_app.jpg "LSH Parent App")
+
+      - layout: left
         title: UTS - Online Streaming Music Learning App
         sub_title: iOS/Android App
         # link_text: boringcompany.com
