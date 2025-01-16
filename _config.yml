@@ -144,8 +144,6 @@ content:
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
             Lead the whole product to provide live streaming course content. Students can learn music skills online, talk to the teacher in real-time, and need to work on the homework after the courses.
-            - iOS App - https://apps.apple.com/us/app/uts-live/id1279215040
-            - Android App - https://play.google.com/store/apps/details?id=com.fantasy.uts
 
             ![UTS](/ryanchen-portfolio-website/images/uts_homepage_small_2.jpg "UTS Homepage")
             ![UTS](/ryanchen-portfolio-website/images/uts_course.jpg "UTS Course")
@@ -173,7 +171,6 @@ content:
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
             Students who like to study abroad, can get lots of information here.
-            - Website - https://www.wef.com.tw/
 
             ![WWGO](/ryanchen-portfolio-website/images/wwgo.jpg "WWGO Homepage")
 
