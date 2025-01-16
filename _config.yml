@@ -56,7 +56,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
+      - layout: left
         title: Engineering Manager
         sub_title: The Campaign Registry
         
@@ -67,7 +67,7 @@ content:
           - Partner with product managers, designers, and other stakeholders to facilitate effective communication and seamless integration between teams
           - Provide technical guidance, evaluate trade-offs, and make informed decisions that contribute to successful project outcomes  
 
-      - layout: top-left
+      - layout: left
         title: NTUC Enterprise Co-operative Limited
         sub_title: Senior Principal Engineer
         caption: Nov 2021 - Nov 2022
@@ -83,12 +83,12 @@ content:
           - Improve web performance to provide better user experience
           - Use Jira, bitbucket to communicate with the whole team
 
-      - layout: top-left
+      - layout: left
         title: NTUC Enterprise Co-operative Limited
         sub_title: Technical Lead
         caption: Mar 2019 - Dec 2021
 
-      - layout: top-left
+      - layout: left
         title: KooData Inc.
         sub_title: Engineer Manager
         caption: Oct 2018 - Mar 2019
@@ -96,7 +96,7 @@ content:
           - Lead frontend/iOS/Android team.
           - Develop online ads analysis website, google ads and facebook ads are included.
 
-      - layout: top-left
+      - layout: left
         title: Fiiser Inc.
         sub_title: Software Architect
         caption: Jul 2014 - Oct 2018
@@ -107,7 +107,7 @@ content:
           - Develop dashboard system. Implement with Django, bootstrap, Google Chart.
           - Develop mobile app search website, front-end and back-end, support desktop and mobile. Implement with Django, python, nginx, uwsgi, javascript, html5, sass, bootstrap. 
 
-      - layout: top-left
+      - layout: left
         title: Yahoo!
         sub_title: Software Engineer
         caption: Jun 2011 - Dec 2013
@@ -118,7 +118,7 @@ content:
           - Develop user generated modules for many sites globally.
           - Submit 6 patents internally. Accept Rate is 66%.
 
-      - layout: top-left
+      - layout: left
         title: Wildmind
         sub_title: Software Engineer
         caption: May 2010 - Jun 2011
@@ -138,7 +138,7 @@ content:
   - title: Project # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left-top
+      - layout: left
         title: UTS - Online Streaming Music Learning App
         sub_title: iOS/Android App
         # link_text: boringcompany.com
@@ -214,19 +214,22 @@ content:
         description: | # this will include new lines to allow paragraphs
             Collect the data from social websites, display the photos of hot spot to the map.
 
-
   - title: Education # Title for the section
-    layout: text
-    content: |
-        National Taiwan University 2006-2010
-        - Master's degree, Computer Science
+    layout: list  
+    content:
+      - layout: center
+        sub_title: National Taiwan University
+        caption: 2006-2010
+        description: Master's degree, Computer Science
 
-        National Chiao Tung University 2002-2006
-        - Bachelor's degree, Computer Science
+      - layout: center
+        sub_title: National Chiao Tung University
+        caption: 2002-2006
+        description: Bachelor's degree, Computer Science
 
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
