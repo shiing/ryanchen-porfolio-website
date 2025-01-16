@@ -126,15 +126,6 @@ content:
           - Conduct product ‘Mobile Caddy’, including system design, implementation, and marketing.Implemented client side code with Objective-C and server with Google App Engine.
           - Design the score system and badge system for product ‘Fanwave.TV’, and implemented it using Java,.
 
-
-
-
-
-
-
-
-
-
   - title: Project # Title for the section
     layout: list # Type of content section (list/text)
     content:
