@@ -130,6 +130,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Children Economy Learning Chatbot
+        sub_title: Line Chatbot / Backend API Endpoint
+        # link_text: boringcompany.com
+        description: | # this will include new lines to allow paragraphs
+            Use OpenAI API, Line API, and Langchain to create a learning chatbot for children. Allow users to ask questions in a Line channel. The chatbot will be based on our existing content and OpenAI model to generate answers.
+
+            ![Children Economy Learning Chatbot](/ryanchen-portfolio-website/images/children_economy_learning_line_chatbot.jpg "Children Economy Learning Line Chatbot")
+
+      - layout: left
         title: NTUC First Campus Mobile App
         sub_title: iOS/Android App/Website
         # link_text: boringcompany.com
