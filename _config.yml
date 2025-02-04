@@ -134,7 +134,7 @@ content:
         sub_title: Line Chatbot / Backend API Endpoint
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
-            Use OpenAI API, Line API, and Langchain to create a learning chatbot for children. Allow users to ask questions in a Line channel. The chatbot will be based on our existing content and OpenAI model to generate answers.
+            Use OpenAI API, Line API, and LangGraph to create a learning chatbot for children. Allow users to ask questions in a Line channel. The chatbot will be based on our existing content and OpenAI model to generate answers.
 
             ![Children Economy Learning Chatbot](/ryanchen-portfolio-website/images/children_economy_learning_line_chatbot.jpg "Children Economy Learning Line Chatbot")
 
